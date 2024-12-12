@@ -1,9 +1,13 @@
 {
-  "name": "Hihi\u0027s_world",
+  "name": "Hihi\u0027s_world（自动更新版，详情hihivr.top）",
   "author": "向阳Hihi家的PMA213X",
   "version": "2.0.0",
   "description": "",
+<<<<<<< Updated upstream
   "fileApi": "https://github.com/PMA213X/Hihi_world/blob/main/",
+=======
+  "fileApi": "https://github.com/PMA213X/Hihi_world/blob/main",
+>>>>>>> Stashed changes
   "files": [
     {
       "path": "command_history.txt",
